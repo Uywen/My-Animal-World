@@ -1,0 +1,14 @@
+.About-heading{
+    text-align: center;
+    margin-top: 7rem;
+}
+
+.About-subheading{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.About-section{
+    margin-top: 2rem;
+    border: 1px solid black;
+}
